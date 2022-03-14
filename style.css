@@ -1,0 +1,25 @@
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#app {
+    background:linear-gradient(#60eb8e 0%, #2cb027 100%);
+    margin: 10px auto;
+    padding: 20px;
+}
+
+#game {
+    background:linear-gradient(#eb60aa 0%, #ab27b0 100%);
+    margin: 10px auto;
+    padding: 20px;
+
+}
+
+#chatbot {
+    background:linear-gradient(#60ebeb 0%, #27aeb0 100%);
+    margin: 10px auto;
+    padding: 20px;
+}
